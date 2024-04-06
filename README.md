@@ -1,5 +1,5 @@
 <p align="left"> 
-<a h ref="https://discord.gg/n4SvjuCBY7 "><img src="https://img.shields.io/website?url=https%3A%2F%2Fdiscord.gg%2Fn4SvjuCBY7&style=social&logo=discord&logoColor=%23FFD400&labelColor=%23FFD400&color=%23FFD400&label=Discord%20Community"/><a/>
+<a href="https://discord.gg/n4SvjuCBY7" target="_blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fdiscord.gg%2Fn4SvjuCBY7&style=social&logo=discord&logoColor=%23FFD400&labelColor=%23FFD400&color=%23FFD400&label=Discord%20Community"/><a/>
   <br/>
 <img src="https://img.shields.io/github/languages/code-size/Kyonax/cyber-code-syndicate?logoColor=%23FFD400&labelColor=%23FFD400&color=%23FFD400"/>
 <img src="https://img.shields.io/github/languages/top/Kyonax/cyber-code-syndicate?logoColor=%23FFD400&labelColor=%23FFD400&color=%23FFD400"/>
